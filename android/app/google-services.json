@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412430659282",
+    "firebase_url": "https://orderapp-87bf1.firebaseio.com",
+    "project_id": "orderapp-87bf1",
+    "storage_bucket": "orderapp-87bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412430659282:android:2a8d7d7fb1d0511b0a070b",
+        "android_client_info": {
+          "package_name": "com.taobaoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412430659282-jd6qjk0qos5c4d0vmgip7968r50koelq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCutRhabfBVVHa27QAxNWBn_Rp4qZDVUVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412430659282-jd6qjk0qos5c4d0vmgip7968r50koelq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
