@@ -9,4 +9,5 @@ export const VALIDATE_USERNAME='VALIDATE_USERNAME';
 export const BEST_SELLING_PRODUCTS ='BEST_SELLING_PRODUCTS';
 export const SELECT_MESSAGE ='SELECT_MESSAGE';
 export const ROUTE_MESSAGE ='Message';
+export const ROUTE_HOME ='Home';
 
