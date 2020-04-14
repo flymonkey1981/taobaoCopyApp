@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
 
     container: {
         flex: 1,
-        alignItems: 'center',
+        //alignItems: 'center',
         justifyContent: 'flex-start',
         backgroundColor: '#d3d3d3'
 
@@ -101,7 +101,7 @@ const Message = (props) => {
         <View style={styles.container}>
             <MessageHeader/>
             <MessageBanner numOfMessage={msgLength}/>
-            <Content style={{backgroundColor: 'white', width: '100%'}}>
+            <Content style={{backgroundColor: 'white'}}>
 
                 <List>
                 {
